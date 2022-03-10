@@ -1,1 +1,2 @@
 Hola, todo bien?, este es el segundo ejercicio de la Guia de Git y GitHub. Gracias por pasar, y como diria july3p: "Hasta la proximaaaaa..."
+El mundo no puede corregirse, la fuerza mayor indica que el derrumbe es inevitable.
